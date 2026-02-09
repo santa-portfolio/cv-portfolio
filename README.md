@@ -14,10 +14,10 @@ This repository contains:
 
 📌 **Navigation**
 - [CV](./CV)
-- [Portfolio](./CV/Portfolio)
-  - [01 Business Problem](./CV/Portfolio/01_business_problem)
-  - [02 Statistics & Spreadsheets](./CV/Portfolio/02_statistics_spreadsheets)
-  - [03 SQL Analysis](./CV/Portfolio/03_sql_analysis)
-  - [04 Python Analysis](./CV/Portfolio/04_python_analysis)
-  - [05 Data Visualization](./CV/Portfolio/05_data_visualization)
-  - [06 Final Project](./CV/Portfolio/06_final_project)
+- [Portfolio](./Portfolio)
+  - [01 Business Problem](./Portfolio/01_business_problem)
+  - [02 Statistics & Spreadsheets](./Portfolio/02_statistics_spreadsheets)
+  - [03 SQL Analysis](./Portfolio/03_sql_analysis)
+  - [04 Python Analysis](./Portfolio/04_python_analysis)
+  - [05 Data Visualization](./Portfolio/05_data_visualization)
+  - [06 Final Project](./Portfolio/06_final_project)[06 Final Project](./CV/Portfolio/06_final_project)
