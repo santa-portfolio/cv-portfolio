@@ -20,4 +20,4 @@ This repository contains:
   - [03 SQL Analysis](./Portfolio/03_sql_analysis)
   - [04 Python Analysis](./Portfolio/04_python_analysis)
   - [05 Data Visualization](./Portfolio/05_data_visualization)
-  - [06 Final Project](./Portfolio/06_final_project)[06 Final Project](./CV/Portfolio/06_final_project)
+  - [06 Final Project](./Portfolio/06_final_project)
