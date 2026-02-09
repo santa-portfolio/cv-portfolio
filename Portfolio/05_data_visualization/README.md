@@ -11,5 +11,6 @@ Data visualization using:
 - Power BI
 
 ## Files
-- tableau_project.pdf → Visualisasi dengan Tableau / Tableau visualization
-- powerbi_project.pdf → Visualisasi dengan Power BI / Power BI visualization
+- [Tableau Project](./data_visualization_tableau.pdf) → Visualisasi dengan Tableau  
+- [Power BI Project](./data_visualization_powerbi.pdf) → Visualisasi dengan Power BI  
+
