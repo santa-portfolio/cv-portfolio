@@ -13,4 +13,4 @@ Final project integrating several analyses:
 - Data visualization with Power BI
 
 ## Files
-- final_project.pdf → Project akhir / Final project
+- [Final Project](./final_project_customer_segmentation.pdf) → Project akhir / Final project
