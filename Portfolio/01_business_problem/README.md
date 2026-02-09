@@ -13,5 +13,5 @@ This folder contains 2 PDF projects focused on understanding business problems:
 - Providing data-driven recommendations
 
 ## Files
-- project1.pdf → Studi kasus pertama / First case study
-- project2.pdf → Studi kasus kedua / Second case study
+- [Intermediate Project](./business_problem_intermediate.pdf) → Studi kasus pertama / First case study
+- [Advance Project](./business_problem_advance.pdf) → Studi kasus kedua / Second case study
