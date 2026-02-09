@@ -13,4 +13,5 @@ Data analysis using Python:
 - Basic visualization
 
 ## Files
-- project1.pdf → Analisis Python / Python analysis
+- [Project](./python_analysis_project.pdf) → Analisis utama / Main analysis  
+
