@@ -13,5 +13,5 @@ This folder contains 2 PDF projects with SQL-based data analysis:
 - Database-driven insights
 
 ## Files
-- project1.pdf → Analisis SQL pertama / First SQL analysis
-- project2.pdf → Analisis SQL kedua / Second SQL analysis
+- [Intermediate Project](./sql_analysis_intermediate.pdf) → Analisis pertama / First analysis  
+- [Advance Project](./sql_analysis_advance.pdf) → Analisis kedua / Second analysis
