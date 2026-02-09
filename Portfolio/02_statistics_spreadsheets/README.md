@@ -13,5 +13,5 @@ Statistical analysis using Excel/Spreadsheets:
 - Result interpretation
 
 ## Files
-- project1.pdf → Analisis pertama / First analysis
-- project2.pdf → Analisis kedua / Second analysis
+- [Intermediate Project](./statistics_spreadsheets_intermediate.pdf) → Analisis pertama / First analysis
+- [Advance Project](./statistics_spreadsheets_advance.pdf) → Analisis kedua / Second analysis
