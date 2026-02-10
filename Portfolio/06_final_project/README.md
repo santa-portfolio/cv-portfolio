@@ -89,7 +89,6 @@ Pencapaian Utama:
 - **EN**: Key visualizations are generated in Power BI and included in the PDF.  
 
 ## Navigasi Tambahan  
-## Navigasi Tambahan  
 - [Kembali ke Portfolio](https://github.com/santa-portfolio/cv-portfolio)  
 - [Business Problem](https://github.com/santa-portfolio/cv-portfolio/tree/main/01_business_problem)  
 - [Statistics & Spreadsheets](https://github.com/santa-portfolio/cv-portfolio/tree/main/02_statistics_spreadsheets)
