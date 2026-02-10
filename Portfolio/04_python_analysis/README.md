@@ -1,5 +1,3 @@
-# 04_python_analysis
-
 ## 🐍 Python Analysis Project
 
 🇮🇩 Bahasa Indonesia  
