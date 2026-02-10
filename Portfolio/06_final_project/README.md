@@ -9,15 +9,18 @@
 
 📊 **Project Summary / Ringkasan Proyek**
 
-English
+🇬🇧 English 
+
 The Data End-to-End Portfolio Project (DEEPP) focuses on analyzing the end-to-end customer journey for Maven Fuzzy Factory, an online retailer specializing in teddy bears. The primary objective of this project is to increase total company revenue by 10% within six months. This goal is achieved by integrating comprehensive data analysis to monitor key revenue drivers and optimize underperforming website funnels. The project specifically targets identifying conversion bottlenecks and implementing data-driven optimization strategies to support strategic, evidence-based decision making.
 
-Indonesian
+🇮🇩 Bahasa Indonesia
+
 Proyek Data End-to-End Portfolio (DEEPP) berfokus pada analisis perjalanan pelanggan secara menyeluruh di Maven Fuzzy Factory, sebuah retailer online yang mengkhususkan diri pada penjualan boneka beruang. Tujuan utama proyek ini adalah meningkatkan total pendapatan perusahaan sebesar 10% dalam enam bulan. Target ini dicapai melalui integrasi analisis data komprehensif untuk memantau penggerak utama pendapatan dan mengoptimalkan funnel website yang kurang efektif. Proyek ini secara khusus menargetkan identifikasi hambatan konversi serta penerapan strategi optimasi berbasis data untuk mendukung pengambilan keputusan strategis yang berbasis bukti.
 
 📈 **Scope of Work / Achievements / Ruang Lingkup & Pencapaian**
 
-English
+🇬🇧 English 
+
 The project involved an in-depth analysis of e-commerce operations using a relational dataset consisting of 6 tables with 1,595,524 rows of data.
 Key Achievements:
 - 🏆 Elite Conversion Rate: Achieved a 6.83% conversion rate, categorized as "Elite Level" compared to the 2–3% industry average.
@@ -26,7 +29,8 @@ Key Achievements:
 - 🔍 Funnel Identification: Identified a critical drop-off where only 2.86% of sessions led to purchases, highlighting a major opportunity for mid-funnel optimization.
 - ✅ Healthy Operations: Kept the Refund Rate at 4.40%, within the healthy industry standard of less than 5%.
   
-Indonesian
+🇮🇩 Bahasa Indonesia
+
 Proyek ini melibatkan analisis mendalam terhadap operasi e-commerce menggunakan dataset relasional yang terdiri dari 6 tabel dengan total 1.595.524 baris data.
 Pencapaian Utama:
 - 🏆 Tingkat Konversi Elite: Mencapai conversion rate sebesar 6,83%, dikategorikan sebagai “Elite Level” dibandingkan rata-rata industri 2–3%.
@@ -37,22 +41,22 @@ Pencapaian Utama:
 
 🛠 **Tools Used / Alat yang Digunakan**
 
-English
+🇬🇧 English 
 - Python for cleaning data and validation Exploratory Data Analysis (EDA)
 - Power BI for visualization and dashboard design
   
-Indonesian
+🇮🇩 Bahasa Indonesia
 - Python untuk pembersihan data dan validasi Exploratory Data Analysis (EDA)
 - Power BI untuk visualisasi dan desain dashboard
 
 📌 **Insights / Wawasan**
 
-English
+🇬🇧 English 
 - Mid-funnel optimization is the most critical opportunity for revenue growth.
 - Pricing and bundling strategies are effective drivers of high AOV.
 - Maintaining refund rates below industry benchmarks strengthens customer trust and operational health.
   
-Indonesian
+🇮🇩 Bahasa Indonesia
 - Optimasi mid-funnel adalah peluang paling kritis untuk pertumbuhan pendapatan.
 - Strategi harga dan bundling terbukti efektif mendorong AOV yang tinggi.
 - Menjaga tingkat refund di bawah standar industri memperkuat kepercayaan pelanggan dan kesehatan operasional. 
