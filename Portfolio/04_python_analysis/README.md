@@ -17,21 +17,25 @@ Data analysis using Python:
 ---
 
 ### 📂 Files
-- [Data Cleaning & EDA Notebook](./Data_cleaning_EDA_Intermediate_Assignment.ipynb)  
-  - **ID**: Notebook untuk pembersihan data dan analisis eksploratif  
-  - **EN**: Notebook for data cleaning and exploratory data analysis  
+1. [Data_Cleaning.ipynb](https://github.com/santa-portfolio/cv-portfolio/blob/main/06_final_project/Data_Cleaning.ipynb)  
+   - ID: Pembersihan data untuk memastikan kualitas dataset.  
+   - EN: Data cleaning to ensure dataset quality.  
 
-- [RFM Segmentation Notebook](./RFM_Segmentation_Intermediate_Assignment.ipynb)  
-  - **ID**: Notebook untuk segmentasi pelanggan menggunakan metode RFM  
-  - **EN**: Notebook for customer segmentation using RFM method  
+2. [EDA_Outlier.ipynb](https://github.com/santa-portfolio/cv-portfolio/blob/main/06_final_project/EDA_Outlier.ipynb)  
+   - ID: Eksplorasi data dan identifikasi outlier.  
+   - EN: Exploratory data analysis and outlier detection.  
 
-- [KMeans Segmentation Notebook](./Result_KMeans_Segmentation_Intermediate_Assignment.ipynb)  
-  - **ID**: Notebook hasil segmentasi menggunakan algoritma KMeans  
-  - **EN**: Notebook with segmentation results using KMeans algorithm  
+3. [KMeans_Clustering.ipynb](https://github.com/santa-portfolio/cv-portfolio/blob/main/06_final_project/KMeans_Clustering.ipynb)  
+   - ID: Analisis segmentasi menggunakan algoritma KMeans.  
+   - EN: Segmentation analysis using KMeans algorithm.  
 
-- [Python Analysis Project (PDF)](./python_analysis_project.pdf)  
-  - **ID**: Dokumentasi proyek analisis Python dalam format PDF  
-  - **EN**: Documentation of Python analysis project in PDF format  
+4. [Merged_data.ipynb](https://github.com/santa-portfolio/cv-portfolio/blob/main/06_final_project/Merged_data.ipynb)  
+   - ID: Penggabungan dataset untuk analisis terpadu.  
+   - EN: Dataset merging for integrated analysis.  
+
+5. [final_project.pdf](https://github.com/santa-portfolio/cv-portfolio/blob/main/06_final_project/final_project.pdf)  
+   - ID: Ringkasan hasil utama dan visualisasi bisnis.  
+   - EN: Summary of key findings and business visualization.  
 
 ---
 
