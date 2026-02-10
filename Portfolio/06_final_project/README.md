@@ -35,9 +35,14 @@
 - **EN**: Key visualizations are generated in Power BI and included in the PDF.  
 
 ## Navigasi Tambahan  
-- [Kembali ke Portfolio](https://github.com/username/cv-portfolio)  
-- [Business Problem](https://github.com/username/cv-portfolio/tree/main/01_business_problem)  
-- [SQL Analysis](https://github.com/username/cv-portfolio/tree/main/03_sql_analysis)  
-- [Statistics & Spreadsheets](https://github.com/username/cv-portfolio/tree/main/02_statistics_spreadsheets)  
-- [Data Visualization](https://github.com/username/cv-portfolio/tree/main/05_data_visualization)  
+## Navigasi Tambahan  
+- [Kembali ke Portfolio](https://github.com/santa-portfolio/cv-portfolio)  
+- [Business Problem](https://github.com/santa-portfolio/cv-portfolio/tree/main/01_business_problem)  
+- [Statistics & Spreadsheets](https://github.com/santa-portfolio/cv-portfolio/tree/main/02_statistics_spreadsheets)
+- [SQL Analysis](https://github.com/santa-portfolio/cv-portfolio/tree/main/03_sql_analysis)  
+- [Python Analysis](https://github.com/santa-portfolio/cv-portfolio/tree/main/04_python_analysis)  
+- [Data Visualization](https://github.com/santa-portfolio/cv-portfolio/tree/main/05_data_visualization)  
+
+
+
 
