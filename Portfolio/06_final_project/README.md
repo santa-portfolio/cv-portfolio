@@ -7,7 +7,7 @@
 - **ID**: Project akhir yang menggabungkan analisis bisnis, Python, dan visualisasi data menggunakan Power BI.  
 - **EN**: Final project integrating business problem analysis, Python, and data visualization with Power BI.  
 
-## Files  
+## 📂 Files  
 1. [Data_Cleaning.ipynb](https://github.com/username/cv-portfolio/blob/main/06_final_project/Data_Cleaning.ipynb)  
    - ID: Pembersihan data untuk memastikan kualitas dataset.  
    - EN: Data cleaning to ensure dataset quality.  
