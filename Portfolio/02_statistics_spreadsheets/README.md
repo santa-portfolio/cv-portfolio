@@ -1,5 +1,3 @@
-# 02_statistics_spreadsheets
-
 ## 📘 Statistics & Spreadsheets Projects
 
 🇮🇩 Bahasa Indonesia  
